@@ -79,6 +79,3 @@ Schmid (2019) Connecting Time-Use, Travel and Shopping Behavior: Results of a Mu
 - posterior and willingness-to-pay (WTP) analysis
 
 - partworth analysis
-
-
-7. Good luck!
